@@ -1,0 +1,1 @@
+print(check_anagram(st,st2))
